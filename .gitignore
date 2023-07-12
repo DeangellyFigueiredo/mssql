@@ -1,0 +1,6 @@
+mssqlbackup
+mssqldata
+mssqllog
+backups
+.env
+node_modules
